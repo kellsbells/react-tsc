@@ -1,0 +1,29 @@
+.hello {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100vw;
+    background-color: #900C3F;
+    color: white;
+    font-size: 48px;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.greeting {
+   padding-bottom: 20px;
+}
+
+
+.hello button {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 40px;
+    width: 60px;
+    height: 60px;
+}
